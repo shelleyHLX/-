@@ -1,0 +1,425 @@
+"""
+<li class="wp-item">
+				<div class="con">
+						<div class="pic">
+							<a target='_blank' href="https://www.meizitu.com/a/5516.html"><img src="http://pic.topmeizi.com/wp-content/uploads/2017a/04/03/limg.jpg" alt="<b>清纯如水的她身上自带暖暖的笑</b>"></a>
+						</div>
+						<h3 class="tit"><a href="https://www.meizitu.com/a/5516.html" target='_blank'><b>清纯如水的她身上自带暖暖的笑</b></a></h3>
+				</div>
+"""
+
+"""
+'https://www.meizitu.com/a/qingchun_3_1.html'
+
+C:\Users\hlx\Anaconda3\python.exe F:/爬虫/chap02/mezitu.py
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>清纯美女_第 1 页_妹子图</title>
+<meta name="keywords" content="甜美可爱,治愈系,糖水,甜素纯,校花" />
+<script type="text/javascript">
+if(/AppleWebKit.*mobile/i.test(navigator.userAgent) || (/MIDP|SymbianOS|NOKIA|SAMSUNG|LG|NEC|TCL|Alcatel|BIRD|DBTEL|Dopod|PHILIPS|HAIER|LENOVO|MOT-|Nokia|SonyEricsson|SIE-|Amoi|ZTE/.test(navigator.userAgent))){
+    if(window.location.href.indexOf("?mobile")<0){
+        try{
+            if(/Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)){
+                window.location.href="http://m";
+            }else if(/iPad/i.test(navigator.userAgent)){
+                window.location.href="http://m";
+            }else{
+                window.location.href="http://m"
+            }
+        }catch(e){}
+    }
+}
+</script>
+<meta name="description" content="无论是小清新,模特,还是其他妹子,我们每天都精挑细选,精彩的妹子图每天都有不一样的呈现" />
+<link rel="stylesheet" type="text/css" href="https://www.meizitu.com/templets/meizi/css/init.css" />
+<link rel="stylesheet" type="text/css" href="https://www.meizitu.com/templets/meizi/css/style.css" />
+<link rel="stylesheet" type="text/css" href="https://www.meizitu.com/templets/meizi/css/wp_page_numbers.css" />
+<script src="https://www.meizitu.com/templets/meizi/js/jquery.min.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="wrapper">
+    <div id="header">
+        <h1><a href="https://www.meizitu.com/"><span>妹子图</span></a></h1>
+        <div class="toplink">[ <span style="color:red">妹子图的全拼，非常好记！</span>]&nbsp;<span>微信号：meizitu_com</span><a href="https://www.meizitu.com/aboutus.html">关于妹子图</a></div>
+
+    </div>
+    <div id="container">
+        <div id="subcontent clearfix">
+            <div class="picnew clearfix">
+
+            <ul>
+              <li><a href="https://www.meizitu.com/a/12.html" target="_blank"><img src="http://pic.topmeizi.com/wp-content/uploads/2011a/12/11/limg.jpg" alt="粉嘟嘟可爱妹子" width="64" height="64"></a></li>
+<li><a href="https://www.meizitu.com/a/4067.html" target="_blank"><img src="http://pic.topmeizi.com/wp-content/uploads/2014a/02/59/limg.jpg" alt="可爱俏皮的妹子，青春女仆变学生" width="64" height="64"></a></li>
+<li><a href="https://www.meizitu.com/a/5308.html" target="_blank"><img src="http://pic.topmeizi.com/wp-content/uploads/2016a/02/17/limg.jpg" alt="可爱女孩，愿暖风呵护纯真和执着" width="64" height="64"></a></li>
+<li><a href="https://www.meizitu.com/a/4219.html" target="_blank"><img src="http://pic.topmeizi.com/wp-content/uploads/2014a/05/20/limg.jpg" alt="可耐的混血妹子特林德尔·玲奈" width="64" height="64"></a></li>
+<li><a href="https://www.meizitu.com/a/5018.html" target="_blank"><img src="http://pic.topmeizi.com/wp-content/uploads/2015a/06/11/limg.jpg" alt="楼顶购物车里的小可人" width="64" height="64"></a></li>
+<li><a href="https://www.meizitu.com/a/19.html" target="_blank"><img src="http://pic.topmeizi.com/wp-content/uploads/2011a/12/19/limg.jpg" alt="Dein圣诞可爱写真" width="64" height="64"></a></li>
+<li><a href="https://www.meizitu.com/a/3683.html" target="_blank"><img src="http://pic.topmeizi.com/wp-content/uploads/2013a/08/19/limg.jpg" alt="家居喝牛奶的女孩" width="64" height="64"></a></li>
+<li><a href="https://www.meizitu.com/a/4894.html" target="_blank"><img src="http://pic.topmeizi.com/wp-content/uploads/2015a/03/52/limg.jpg" alt="清醇校花美女赵已晨性感写真" width="64" height="64"></a></li>
+<li><a href="https://www.meizitu.com/a/4243.html" target="_blank"><img src="http://pic.topmeizi.com/wp-content/uploads/2014a/05/44/limg.jpg" alt="嘴角那丝微笑的弧线，穿碎花内内" width="64" height="64"></a></li>
+<li><a href="https://www.meizitu.com/a/5370.html" target="_blank"><img src="http://pic.topmeizi.com/wp-content/uploads/2016a/05/08/limg.jpg" alt="甜美女孩清纯如水，记录生活的点" width="64" height="64"></a></li>
+<li><a href="https://www.meizitu.com/a/4609.html" target="_blank"><img src="http://pic.topmeizi.com/wp-content/uploads/2014a/11/17/limg.jpg" alt="绝色气质少女叶子小清新图片" width="64" height="64"></a></li>
+
+            </ul>
+
+            </div>
+            <div class="tags">
+                <h2>美女分类:</h2>
+                <span>
+
+
+                <a href="https://www.meizitu.com/a/xinggan.html" target="_blank" title="性感">性感</a>
+                <a href="https://www.meizitu.com/a/xinggan.html" target="_blank" title="浴室">浴室</a>
+                <a href="https://www.meizitu.com/a/sifang.html" target="_blank" title="私房">私房</a>
+                <a href="https://www.meizitu.com/a/sifang.html" target="_blank" title="美腿">美腿</a>
+                <a href="https://www.meizitu.com/a/qingchun.html" target="_blank" title="清纯">清纯</a>
+                <a href="https://www.meizitu.com/a/qingchun.html" target="_blank" title="甜美">甜美</a>
+                <a href="https://www.meizitu.com/a/qingchun.html" target="_blank" title="治愈系">治愈系</a>
+                <a href="https://www.meizitu.com/a/meizi.html" target="_blank" title="萌妹子">萌妹子</a>
+                <a href="https://www.meizitu.com/a/xiaoqingxin.htm" target="_blank" title="小清新">小清新</a>
+                <a href="https://www.meizitu.com/a/nvshen.html" target="_blank" title="女神">女神</a>
+                <a href="https://www.meizitu.com/a/qizhi.html" target="_blank" title="气质美女">气质美女</a>
+                <a href="https://www.meizitu.com/a/mote.html" target="_blank" title="嫩模">嫩模</a>
+                <a href="https://www.meizitu.com/a/mote.html" target="_blank" title="车模">车模</a>
+                <a href="https://www.meizitu.com/a/bijini.html" target="_blank" title="比基尼">比基尼</a>
+                <a href="https://www.meizitu.com/a/baobei.html" target="_blank" title="足球宝贝">足球宝贝</a>
+                <a href="https://www.meizitu.com/a/luoli.html" target="_blank" title="萝莉">萝莉</a>
+                <a href="https://www.meizitu.com/a/wangluo.html" target="_blank" title="90后">90后</a>
+                <a href="https://www.meizitu.com/a/rihan.html" target="_blank" title="日韩美女">日韩美女</a>
+                <a href="https://www.meizitu.com/a/oumei.html" target="_blank" title="欧美美女">欧美美女</a>
+
+
+
+
+                </span>
+            </div>
+        </div>
+
+        <div id="pagecontent">
+            <div id="maincontent">
+              <div class="inWrap">
+            <div class="titleBar"><h3>当前位置： <a href="https://www.meizitu.com">首页</a>&nbsp;>&nbsp;清纯</h3>  <div class="topPage"></div></div>
+            <ul class="wp-list clearfix">
+			<li class="wp-item">
+				<div class="con">
+						<div class="pic">
+							<a target='_blank' href="https://www.meizitu.com/a/5516.html"><img src="http://pic.topmeizi.com/wp-content/uploads/2017a/04/03/limg.jpg" alt="<b>清纯如水的她身上自带暖暖的笑</b>"></a>
+						</div>
+						<h3 class="tit"><a href="https://www.meizitu.com/a/5516.html" target='_blank'><b>清纯如水的她身上自带暖暖的笑</b></a></h3>
+				</div>
+			</li><li class="wp-item">
+				<div class="con">
+						<div class="pic">
+							<a target='_blank' href="https://www.meizitu.com/a/5510.html"><img src="http://pic.topmeizi.com/wp-content/uploads/2017a/03/10/limg.jpg" alt="春天来了，妹子安静的等待阳光灿烂的日子"></a>
+						</div>
+						<h3 class="tit"><a href="https://www.meizitu.com/a/5510.html" target='_blank'>春天来了，妹子安静的等待阳光灿烂的日子</a></h3>
+				</div>
+			</li><li class="wp-item">
+				<div class="con">
+						<div class="pic">
+							<a target='_blank' href="https://www.meizitu.com/a/5506.html"><img src="http://pic.topmeizi.com/wp-content/uploads/2017a/03/06/limg.jpg" alt="漂亮女学生在考虑穿什么鞋呢？"></a>
+						</div>
+						<h3 class="tit"><a href="https://www.meizitu.com/a/5506.html" target='_blank'>漂亮女学生在考虑穿什么鞋呢？</a></h3>
+				</div>
+			</li><li class="wp-item">
+				<div class="con">
+						<div class="pic">
+							<a target='_blank' href="https://www.meizitu.com/a/5505.html"><img src="http://pic.topmeizi.com/wp-content/uploads/2017a/03/05/limg.jpg" alt="爱吃樱桃的女孩就是不一样"></a>
+						</div>
+						<h3 class="tit"><a href="https://www.meizitu.com/a/5505.html" target='_blank'>爱吃樱桃的女孩就是不一样</a></h3>
+				</div>
+			</li><li class="wp-item">
+				<div class="con">
+						<div class="pic">
+							<a target='_blank' href="https://www.meizitu.com/a/5498.html"><img src="http://pic.topmeizi.com/wp-content/uploads/2017a/02/06/limg.jpg" alt="青葱校园里的印记，清纯如你"></a>
+						</div>
+						<h3 class="tit"><a href="https://www.meizitu.com/a/5498.html" target='_blank'>青葱校园里的印记，清纯如你</a></h3>
+				</div>
+			</li><li class="wp-item">
+				<div class="con">
+						<div class="pic">
+							<a target='_blank' href="https://www.meizitu.com/a/5495.html"><img src="http://pic.topmeizi.com/wp-content/uploads/2017a/02/03/limg.jpg" alt="闪一闪亮晶晶，微光世界里的清纯妹子"></a>
+						</div>
+						<h3 class="tit"><a href="https://www.meizitu.com/a/5495.html" target='_blank'>闪一闪亮晶晶，微光世界里的清纯妹子</a></h3>
+				</div>
+			</li><li class="wp-item">
+				<div class="con">
+						<div class="pic">
+							<a target='_blank' href="https://www.meizitu.com/a/5491.html"><img src="http://pic.topmeizi.com/wp-content/uploads/2017a/02/02/limg.jpg" alt="破旧飞机也能玩出新花样"></a>
+						</div>
+						<h3 class="tit"><a href="https://www.meizitu.com/a/5491.html" target='_blank'>破旧飞机也能玩出新花样</a></h3>
+				</div>
+			</li><li class="wp-item">
+				<div class="con">
+						<div class="pic">
+							<a target='_blank' href="https://www.meizitu.com/a/5487.html"><img src="http://pic.topmeizi.com/wp-content/uploads/2017a/01/02/limg.jpg" alt="打篮球的小清新女神，因为你爱上篮球"></a>
+						</div>
+						<h3 class="tit"><a href="https://www.meizitu.com/a/5487.html" target='_blank'>打篮球的小清新女神，因为你爱上篮球</a></h3>
+				</div>
+			</li><li class="wp-item">
+				<div class="con">
+						<div class="pic">
+							<a target='_blank' href="https://www.meizitu.com/a/5486.html"><img src="http://pic.topmeizi.com/wp-content/uploads/2017a/01/01/limg.jpg" alt="<b>情人节刚过，听说超市里的TT都售罄了</b>"></a>
+						</div>
+						<h3 class="tit"><a href="https://www.meizitu.com/a/5486.html" target='_blank'><b>情人节刚过，听说超市里的TT都售罄了</b></a></h3>
+				</div>
+			</li><li class="wp-item">
+				<div class="con">
+						<div class="pic">
+							<a target='_blank' href="https://www.meizitu.com/a/5480.html"><img src="http://pic.topmeizi.com/wp-content/uploads/2016a/09/04/limg.jpg" alt="球场边上拍到的一枚气质妹纸"></a>
+						</div>
+						<h3 class="tit"><a href="https://www.meizitu.com/a/5480.html" target='_blank'>球场边上拍到的一枚气质妹纸</a></h3>
+				</div>
+			</li><li class="wp-item">
+				<div class="con">
+						<div class="pic">
+							<a target='_blank' href="https://www.meizitu.com/a/5477.html"><img src="http://pic.topmeizi.com/wp-content/uploads/2016a/09/01/limg.jpg" alt="体操服，下课后，来一发"></a>
+						</div>
+						<h3 class="tit"><a href="https://www.meizitu.com/a/5477.html" target='_blank'>体操服，下课后，来一发</a></h3>
+				</div>
+			</li><li class="wp-item">
+				<div class="con">
+						<div class="pic">
+							<a target='_blank' href="https://www.meizitu.com/a/5469.html"><img src="http://pic.topmeizi.com/wp-content/uploads/2016a/08/24/limg.jpg" alt="<b>小清新女神，你最喜欢哪一个？</b>"></a>
+						</div>
+						<h3 class="tit"><a href="https://www.meizitu.com/a/5469.html" target='_blank'><b>小清新女神，你最喜欢哪一个？</b></a></h3>
+				</div>
+			</li><li class="wp-item">
+				<div class="con">
+						<div class="pic">
+							<a target='_blank' href="https://www.meizitu.com/a/5463.html"><img src="http://pic.topmeizi.com/wp-content/uploads/2016a/08/18/limg.jpg" alt="<b>躺在草丛里的清纯尤物，谁来捡</b>"></a>
+						</div>
+						<h3 class="tit"><a href="https://www.meizitu.com/a/5463.html" target='_blank'><b>躺在草丛里的清纯尤物，谁来捡</b></a></h3>
+				</div>
+			</li><li class="wp-item">
+				<div class="con">
+						<div class="pic">
+							<a target='_blank' href="https://www.meizitu.com/a/5461.html"><img src="http://pic.topmeizi.com/wp-content/uploads/2016a/08/16/limg.jpg" alt="氧气美女，吹弹可破的皮肤"></a>
+						</div>
+						<h3 class="tit"><a href="https://www.meizitu.com/a/5461.html" target='_blank'>氧气美女，吹弹可破的皮肤</a></h3>
+				</div>
+			</li><li class="wp-item">
+				<div class="con">
+						<div class="pic">
+							<a target='_blank' href="https://www.meizitu.com/a/5459.html"><img src="http://pic.topmeizi.com/wp-content/uploads/2016a/08/14/limg.jpg" alt="<b>妹子戏水图，晶莹白皙好有feel</b>"></a>
+						</div>
+						<h3 class="tit"><a href="https://www.meizitu.com/a/5459.html" target='_blank'><b>妹子戏水图，晶莹白皙好有feel</b></a></h3>
+				</div>
+			</li><li class="wp-item">
+				<div class="con">
+						<div class="pic">
+							<a target='_blank' href="https://www.meizitu.com/a/5440.html"><img src="http://pic.topmeizi.com/wp-content/uploads/2016a/07/37/limg.jpg" alt="<b>萌萌的长腿校花，笑容很能感染人</b>"></a>
+						</div>
+						<h3 class="tit"><a href="https://www.meizitu.com/a/5440.html" target='_blank'><b>萌萌的长腿校花，笑容很能感染人</b></a></h3>
+				</div>
+			</li><li class="wp-item">
+				<div class="con">
+						<div class="pic">
+							<a target='_blank' href="https://www.meizitu.com/a/5438.html"><img src="http://pic.topmeizi.com/wp-content/uploads/2016a/07/35/limg.jpg" alt="睡眼惺忪的素颜女孩，最爱夏日"></a>
+						</div>
+						<h3 class="tit"><a href="https://www.meizitu.com/a/5438.html" target='_blank'>睡眼惺忪的素颜女孩，最爱夏日</a></h3>
+				</div>
+			</li><li class="wp-item">
+				<div class="con">
+						<div class="pic">
+							<a target='_blank' href="https://www.meizitu.com/a/5428.html"><img src="http://pic.topmeizi.com/wp-content/uploads/2016a/07/25/limg.jpg" alt="即便是大暑，爱运动的姑娘也不怕晒"></a>
+						</div>
+						<h3 class="tit"><a href="https://www.meizitu.com/a/5428.html" target='_blank'>即便是大暑，爱运动的姑娘也不怕晒</a></h3>
+				</div>
+			</li><li class="wp-item">
+				<div class="con">
+						<div class="pic">
+							<a target='_blank' href="https://www.meizitu.com/a/5413.html"><img src="http://pic.topmeizi.com/wp-content/uploads/2016a/07/10/limg.jpg" alt="<b>既清新可人，又热情似火的运动女孩</b>"></a>
+						</div>
+						<h3 class="tit"><a href="https://www.meizitu.com/a/5413.html" target='_blank'><b>既清新可人，又热情似火的运动女孩</b></a></h3>
+				</div>
+			</li><li class="wp-item">
+				<div class="con">
+						<div class="pic">
+							<a target='_blank' href="https://www.meizitu.com/a/5406.html"><img src="http://pic.topmeizi.com/wp-content/uploads/2016a/07/04/limg.jpg" alt="炎炎夏日不如带着妹子出去踏青吧"></a>
+						</div>
+						<h3 class="tit"><a href="https://www.meizitu.com/a/5406.html" target='_blank'>炎炎夏日不如带着妹子出去踏青吧</a></h3>
+				</div>
+			</li><li class="wp-item">
+				<div class="con">
+						<div class="pic">
+							<a target='_blank' href="https://www.meizitu.com/a/5402.html"><img src="http://pic.topmeizi.com/wp-content/uploads/2016a/06/16/limg.jpg" alt="美术系学妹创意摄影，克隆一个自己"></a>
+						</div>
+						<h3 class="tit"><a href="https://www.meizitu.com/a/5402.html" target='_blank'>美术系学妹创意摄影，克隆一个自己</a></h3>
+				</div>
+			</li><li class="wp-item">
+				<div class="con">
+						<div class="pic">
+							<a target='_blank' href="https://www.meizitu.com/a/5396.html"><img src="http://pic.topmeizi.com/wp-content/uploads/2016a/06/11/limg.jpg" alt="<b>想不到你是那么傲娇的少女</b>"></a>
+						</div>
+						<h3 class="tit"><a href="https://www.meizitu.com/a/5396.html" target='_blank'><b>想不到你是那么傲娇的少女</b></a></h3>
+				</div>
+			</li><li class="wp-item">
+				<div class="con">
+						<div class="pic">
+							<a target='_blank' href="https://www.meizitu.com/a/5390.html"><img src="http://pic.topmeizi.com/wp-content/uploads/2016a/06/05/limg.jpg" alt="广东高校十大顶级校花，颜值爆表！"></a>
+						</div>
+						<h3 class="tit"><a href="https://www.meizitu.com/a/5390.html" target='_blank'>广东高校十大顶级校花，颜值爆表！</a></h3>
+				</div>
+			</li><li class="wp-item">
+				<div class="con">
+						<div class="pic">
+							<a target='_blank' href="https://www.meizitu.com/a/5380.html"><img src="http://pic.topmeizi.com/wp-content/uploads/2016a/05/18/limg.jpg" alt="<b>养眼！那些清纯的美女图片-24</b>"></a>
+						</div>
+						<h3 class="tit"><a href="https://www.meizitu.com/a/5380.html" target='_blank'><b>养眼！那些清纯的美女图片-24</b></a></h3>
+				</div>
+			</li><li class="wp-item">
+				<div class="con">
+						<div class="pic">
+							<a target='_blank' href="https://www.meizitu.com/a/5373.html"><img src="http://pic.topmeizi.com/wp-content/uploads/2016a/05/11/limg.jpg" alt="中山医学大学的校花，清秀的容颜让人难忘"></a>
+						</div>
+						<h3 class="tit"><a href="https://www.meizitu.com/a/5373.html" target='_blank'>中山医学大学的校花，清秀的容颜让人难忘</a></h3>
+				</div>
+			</li><li class="wp-item">
+				<div class="con">
+						<div class="pic">
+							<a target='_blank' href="https://www.meizitu.com/a/5370.html"><img src="http://pic.topmeizi.com/wp-content/uploads/2016a/05/08/limg.jpg" alt="甜美女孩清纯如水，记录生活的点点滴滴"></a>
+						</div>
+						<h3 class="tit"><a href="https://www.meizitu.com/a/5370.html" target='_blank'>甜美女孩清纯如水，记录生活的点点滴滴</a></h3>
+				</div>
+			</li><li class="wp-item">
+				<div class="con">
+						<div class="pic">
+							<a target='_blank' href="https://www.meizitu.com/a/5366.html"><img src="http://pic.topmeizi.com/wp-content/uploads/2016a/05/04/limg.jpg" alt="颜值爆棚的香港校花林沁园"></a>
+						</div>
+						<h3 class="tit"><a href="https://www.meizitu.com/a/5366.html" target='_blank'>颜值爆棚的香港校花林沁园</a></h3>
+				</div>
+			</li><li class="wp-item">
+				<div class="con">
+						<div class="pic">
+							<a target='_blank' href="https://www.meizitu.com/a/5350.html"><img src="http://pic.topmeizi.com/wp-content/uploads/2016a/04/10/limg.jpg" alt="妹子你是咖啡馆里最美的风景线"></a>
+						</div>
+						<h3 class="tit"><a href="https://www.meizitu.com/a/5350.html" target='_blank'>妹子你是咖啡馆里最美的风景线</a></h3>
+				</div>
+			</li><li class="wp-item">
+				<div class="con">
+						<div class="pic">
+							<a target='_blank' href="https://www.meizitu.com/a/5345.html"><img src="http://pic.topmeizi.com/wp-content/uploads/2016a/04/05/limg.jpg" alt="马赛克毁了萌妹子的一张清纯照"></a>
+						</div>
+						<h3 class="tit"><a href="https://www.meizitu.com/a/5345.html" target='_blank'>马赛克毁了萌妹子的一张清纯照</a></h3>
+				</div>
+			</li><li class="wp-item">
+				<div class="con">
+						<div class="pic">
+							<a target='_blank' href="https://www.meizitu.com/a/5318.html"><img src="http://pic.topmeizi.com/wp-content/uploads/2016a/02/27/limg.jpg" alt="有自信迷人的笑容，每天都是灿烂的"></a>
+						</div>
+						<h3 class="tit"><a href="https://www.meizitu.com/a/5318.html" target='_blank'>有自信迷人的笑容，每天都是灿烂的</a></h3>
+				</div>
+			</li>
+
+		</ul>
+        </div>
+                <div class="navigation">
+                    <div id="wp_page_numbers">
+                        <ul><li>首页</li>
+<li class="thisclass">1</li>
+<li><a href='qingchun_3_2.html'>2</a></li>
+<li><a href='qingchun_3_3.html'>3</a></li>
+<li><a href='qingchun_3_4.html'>4</a></li>
+<li><a href='qingchun_3_5.html'>5</a></li>
+<li><a href='qingchun_3_6.html'>6</a></li>
+<li><a href='qingchun_3_7.html'>7</a></li>
+<li><a href='qingchun_3_8.html'>8</a></li>
+<li><a href='qingchun_3_2.html'>下一页</a></li>
+<li><a href='qingchun_3_8.html'>末页</a></li>
+</ul>
+                        <div style="float: none; clear: both;"></div>
+                    </div>
+                </div>
+            </div>
+
+<div id="sidebar">
+  <div class="cssh6"></div>
+  <div class="lastest clearfix">
+    <h3>最新更新</h3>
+    <ul>
+      <li><a href="https://www.meizitu.com/a/4300.html">肌理细腻骨肉匀，森林里的白皙妹子</a></li>
+<li><a href="https://www.meizitu.com/a/3653.html">白思宜日系可爱卖萌双乳圆润</a></li>
+<li><a href="https://www.meizitu.com/a/4605.html">婷婷玉立，图书馆的清纯甜妹子</a></li>
+<li><a href="https://www.meizitu.com/a/3819.html">可爱美女拍摄初冬私房写真</a></li>
+<li><a href="https://www.meizitu.com/a/4295.html">清纯女孩，用清澈见底的眼神折服你</a></li>
+<li><a href="https://www.meizitu.com/a/4122.html">玉体香肌，朱忆音私房小可爱风格写</a></li>
+<li><a href="https://www.meizitu.com/a/5219.html">这里的冬天 有阳光暖暖的落在脸上</a></li>
+<li><a href="https://www.meizitu.com/a/4191.html">可爱小背心，清纯模特王馨瑶yanni</a></li>
+<li><a href="https://www.meizitu.com/a/247.html">模特贝贝：可爱私房照</a></li>
+<li><a href="https://www.meizitu.com/a/5041.html">我为你代言，夏の午後的清纯女孩</a></li>
+<li><a href="https://www.meizitu.com/a/5477.html">体操服，下课后，来一发</a></li>
+<li><a href="https://www.meizitu.com/a/4853.html">可爱的小末带给人温暖的感觉</a></li>
+<li><a href="https://www.meizitu.com/a/4175.html">模特夏小薇在阳光普吉岛的写意生活</a></li>
+<li><a href="https://www.meizitu.com/a/4270.html">可爱性感的平面模特蕾拉</a></li>
+<li><a href="https://www.meizitu.com/a/4986.html">空谷幽兰清丽脱俗的清纯美女图片</a></li>
+<li><a href="https://www.meizitu.com/a/50.html">绝美诱惑校花清纯写真</a></li>
+<li><a href="https://www.meizitu.com/a/5237.html">元気少女曦琳与惠仪の深秋</a></li>
+<li><a href="https://www.meizitu.com/a/4980.html">仲夏，青春妹子充满着叛逆的味道</a></li>
+<li><a href="https://www.meizitu.com/a/4738.html">白嫩妹子喜欢冬天，却不爱夏天</a></li>
+<li><a href="https://www.meizitu.com/a/5308.html">可爱女孩，愿暖风呵护纯真和执着</a></li>
+<li><a href="https://www.meizitu.com/a/5516.html">清纯如水的她身上自带暖暖的笑</a></li>
+<li><a href="https://www.meizitu.com/a/5373.html">中山医学大学的校花，清秀的容颜让</a></li>
+
+      <li><a href="http://www.sifangsex.com/a/qinggan/2013/807.html?ad=meizitu3" target="_blank">外表看出女人的做爱习惯</a></li>
+      <li><a href="http://www.sifangsex.com/a/qinggan/2013/758.html?ad=meizitu3" target="_blank">脱掉她性感衣服我明白了一切</a></li>
+      <li><a href="http://www.sifangsex.com/a/jiankang/2013/135.html?ad=meizitu3" target="_blank">女性的自慰大全与注意</a></li>
+      <li><a href="http://www.sifangsex.com/a/wenhua/2013/670.html?ad=meizitu3" target="_blank">男人绝对把持不住的暗示</a></li>
+    </ul>
+  </div>
+
+  <div class="cssh6"></div>
+
+</div>
+</div>
+</div>
+<div id="footer">
+  <p>本站图片来源于摄影师投稿及网络，如果侵犯了您的权益，请联系我们删除。</p>
+  <p>2010 - 2016 妹子图.com 版权所有，本站设计及评论严禁侵权  冀ICP备11027911号</p>
+</div>
+</div>
+<script>
+(function() {
+var $backToTopTxt = "返回顶部", $backToTopEle = $('<div class="backToTop"></div>').appendTo($("body"))
+
+        .text($backToTopTxt).attr("title", $backToTopTxt).click(function() {
+
+            $("html, body").animate({ scrollTop: 0 }, 120);
+
+    }), $backToTopFun = function() {
+
+var st = $(document).scrollTop(), winh = $(window).height();
+
+        (st > 0)? $backToTopEle.show(): $backToTopEle.hide();
+
+//IE6下的定位
+
+if (!window.XMLHttpRequest) {
+
+            $backToTopEle.css("top", st + winh - 166);
+
+        }
+
+    };
+
+    $(window).bind("scroll", $backToTopFun);
+
+    $(function() { $backToTopFun(); });
+
+})();
+</script>
+<script src="https://www.meizitu.com/templets/meizi/js/lazyload.js" charset="utf-8"></script>
+<script charset="utf-8" type="text/javascript">
+lazyload({defObj : "body"});
+</script>
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_30056528'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "w.cnzz.com/c.php%3Fid%3D30056528' type='text/javascript'%3E%3C/script%3E"));</script>
+
+</body>
+</html>
+
+Process finished with exit code 0
+
+"""
